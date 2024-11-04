@@ -8,4 +8,4 @@ Here's an equation:
 $$a^2 + b^2 = c^2$$
 
 ## Calculus
-[My Calculus notes](https://thc25/github.io/articles/Calculus/README.md)
+[My Calculus notes](/articles/Calculus/README.md)
