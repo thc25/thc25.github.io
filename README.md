@@ -1,4 +1,4 @@
-# thc25.github.io
+# My Website
 
 Hello world!
 
